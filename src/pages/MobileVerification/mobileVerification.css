@@ -1,0 +1,40 @@
+.login-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+
+}
+
+
+.inputField{
+    background-color: aqua;
+}
+
+
+.input-group {
+        min-height: 20px;
+        
+}
+
+.container{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#visibilityIcon{
+    z-index: 2;
+    top: 13px;
+    right: 100px;
+    position: absolute;
+    cursor: pointer;
+}
+
+
+.container h6{
+    margin-top: 70px;
+    margin-bottom: 150px;
+}

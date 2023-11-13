@@ -1,0 +1,23 @@
+
+.input-field{
+    min-width: 80%;
+}
+
+.label{
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 100px;
+}
+
+.input-field .form-control{
+    margin: 10px 0;
+}
+.subtitle {
+    margin-top: 60px;
+    margin-bottom: 150px;
+}
+
+.checkbox-forgot{
+    display: flex;
+    justify-content: space-between;
+}
